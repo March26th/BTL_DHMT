@@ -1,0 +1,63 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(107,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(110,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(115,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(119,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(120,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(179,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(184,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(184,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(184,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(236,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(236,70): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(246,50): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(251,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(251,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(277,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(281,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(283,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(287,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(289,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(291,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(293,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(304,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(310,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(313,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(316,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(319,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(322,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(325,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(328,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(331,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(336,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(337,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(338,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(344,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(350,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(352,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(363,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(366,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(373,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(386,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(387,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(406,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(417,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(419,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(420,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(421,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(449,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(452,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(455,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(458,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(461,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(464,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(484,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(485,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(486,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(492,13): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(498,14): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(502,12): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(503,11): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\admin\Desktop\Nhom15\GLSLExperiment\main.cpp(507,12): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> C:\Users\admin\Desktop\Nhom15\Debug\GLSLExperiment.exe
